@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Narrative_scenes/Start.unity
+    guid: 69b1bfc48416da943bc32771ba4f54bc
+  - enabled: 1
+    path: Assets/Scenes/Narrative_scenes/Narration Scene 1.unity
+    guid: a026785d6d0ff1b468ae8749c1072226
+  - enabled: 1
+    path: Assets/Scenes/Narrative_scenes/Narration Scene 2.unity
+    guid: 161d1cde5f8f4e749949da9557afd53b
+  - enabled: 1
+    path: Assets/Scenes/Narrative_scenes/Narration Scene 3.unity
+    guid: 8c77e910e82425c43a06a6a3b5386f3f
+  - enabled: 1
+    path: Assets/Scenes/Narrative_scenes/Narration Scene 4.unity
+    guid: 568c05be64fac8e4d807efa4f5e150b7
+  - enabled: 1
+    path: Assets/Scenes/Narrative_scenes/Instructions.unity
+    guid: 7173d7c8cc53dc24da2dde3b8d015694
+  - enabled: 1
+    path: Assets/Scenes/Particle system.unity
+    guid: 3ec959267ea4cd34598eaea8862267e0
+  - enabled: 1
+    path: Assets/Scenes/StageFive.unity
+    guid: fc11789f7fc4ed144b3d7543b6a3666e
+  - enabled: 1
+    path: Assets/Scenes/SceneFourPointOneDungeon.unity
+    guid: 01964e4f85edb854595dbe941782b79a
+  - enabled: 1
+    path: Assets/Scenes/StageOne.unity
+    guid: eac1eda63b38cf64ca02afef383f1ea5
+  - enabled: 1
+    path: Assets/Scenes/StageFourPointTwoLibrary.unity
+    guid: a6a10d89c587b244e8529add042e7ed4
+  - enabled: 1
+    path: Assets/Scenes/StageZero.unity
+    guid: 2e0580f1d2a61e5438011914f9222a4d
+  - enabled: 1
+    path: Assets/Scenes/StageTwoPointTwoLibrary.unity
+    guid: 65fe4af647ec3a3439e8e4c77979c2f3
+  - enabled: 1
+    path: Assets/Scenes/StageTwoPointOneDungeon.unity
+    guid: 2116eda7701c0bb4cac71508fa0d5ffc
+  - enabled: 1
+    path: Assets/Scenes/StageThree.unity
+    guid: 791da61271d652b4ba7d0f6f04ab2285
+  - enabled: 1
+    path: Assets/Scenes/StageTwo.unity
+    guid: 3fb624809514b6a4481d638e0fcdbc34
+  - enabled: 1
+    path: Assets/Scenes/StageFiveIntro.unity
+    guid: 7d6bd2d7fe6336b4390b85b1ff3e6625
+  - enabled: 1
+    path: Assets/Scenes/Choice Scene.unity
+    guid: af2428c3ae15e804cac2ede26c5f85ff
+  - enabled: 1
+    path: Assets/Scenes/Narrative_scenes/ConsumeStone.unity
+    guid: e75928e02e2e79d42a6c3b820d4bfd43
+  - enabled: 1
+    path: Assets/Scenes/DestroyStone.unity
+    guid: e21371f6ac28ade40a68afa9c85ca4ff
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: e82d3f55350e9ef43ba032f2f540cd9c,
+      type: 2}
